@@ -36,7 +36,7 @@ ou faça uma cópia pelo Google Colab no link abaixo:
 ## 🧪 Requisitos
 
 * Python 3.11+
-* API key do Gemini. [Pegue aqui](http://goo.gle/alura-apikey)
+* API key do Gemini. [Pegue aqui](http://goo.gle/alura-apikey)  
   (Uma API key gratuita pode impactar a quantidade de slides que podem ser traduzidas)
 
 ## 🤝 Contribuições

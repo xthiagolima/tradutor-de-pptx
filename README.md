@@ -44,5 +44,5 @@ Contribuições são super bem-vindas! Sinta-se à vontade para abrir issues, en
 
 ## ✨ Autor
 
-Desenvolvido por [Thiago Lima](https://github.com/xthiagolima) para \[Imersão IA 3ª Edição da Alura].
+Desenvolvido por [Thiago Lima](https://github.com/xthiagolima) para **Imersão IA 3ª Edição da Alura**. 
 [LinkedIn](https://www.linkedin.com/in/thiag0-lima/)

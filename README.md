@@ -14,6 +14,8 @@ Traduza automaticamente seus arquivos `.pptx` para qualquer idioma, mantendo o l
 - 🔁 Processo **automatizado e escalável**
 - 💼 Ideal para **equipes globais, apresentações corporativas e conferências multilíngues**
 
+![Screenshot](./Preview Slide Translator.png)
+
 ## 📥 Instalação
 
 Clone o repositório e abra o arquivo de extensão `.ipynb` na sua IDE preferida:

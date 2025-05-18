@@ -19,7 +19,7 @@ Traduza automaticamente seus arquivos `.pptx` para qualquer idioma, mantendo o l
 Clone o repositório e abra o arquivo de extensão `.ipynb` na sua IDE preferida:
 
 ```bash
-git clone https://github.com/seu-usuario/slide-translator.git
+git clone [https://github.com/seu-usuario/slide-translator.git](https://github.com/xthiagolima/tradutor-de-pptx.git)
 ````
 
 ou faça uma cópia pelo Google Colab no link abaixo:

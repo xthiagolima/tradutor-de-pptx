@@ -14,7 +14,7 @@ Traduza automaticamente seus arquivos `.pptx` para qualquer idioma, mantendo o l
 - 🔁 Processo **automatizado e escalável**
 - 💼 Ideal para **equipes globais, apresentações corporativas e conferências multilíngues**
 
-![Screenshot](./Preview Slide Translator.png)
+![Comparação](Preview Slide Translator.png)
 
 ## 📥 Instalação
 
